@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.bluetooth.MainActivity" >
+
+
+    <item
+        android:id="@+id/Connect"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="连接设备" />
+    <item android:id="@+id/discoverable"
+          android:icon="@android:drawable/ic_menu_mylocation"
+          android:title="开放检测" />
+    <item
+        android:id="@+id/RecAlign"
+        android:title="接收对齐" />
+
+</menu>

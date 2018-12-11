@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">盲文助手改</string>
+    <string name="confirm">确认</string>
+    <string name="align_num">对齐字节数:</string>
+    <string name="align_tips">注意：对齐功能仅在HEX显示下有效，0表示关闭数据对齐。</string>
+
+</resources>

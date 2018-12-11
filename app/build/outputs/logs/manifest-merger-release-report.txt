@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b81e164b0f857ee74346e489b3c36ad5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a22f3f45a79a25d433744e86f3885136\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\293fc2a949547d17c21cc223419f5b42\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8cbfac5abaeb2a5daff28fecf8ea45cb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\caa63c2e4c6605cc607f6d5636cf783f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\90eb323c3a44377a32bcfbf0e229f569\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9a0fccb0219692a3a6e8d180aaef7db6\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml
+		INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml
+		INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml
+		INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b81e164b0f857ee74346e489b3c36ad5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b81e164b0f857ee74346e489b3c36ad5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a22f3f45a79a25d433744e86f3885136\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a22f3f45a79a25d433744e86f3885136\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\293fc2a949547d17c21cc223419f5b42\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\293fc2a949547d17c21cc223419f5b42\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8cbfac5abaeb2a5daff28fecf8ea45cb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8cbfac5abaeb2a5daff28fecf8ea45cb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\caa63c2e4c6605cc607f6d5636cf783f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\caa63c2e4c6605cc607f6d5636cf783f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\90eb323c3a44377a32bcfbf0e229f569\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\90eb323c3a44377a32bcfbf0e229f569\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9a0fccb0219692a3a6e8d180aaef7db6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9a0fccb0219692a3a6e8d180aaef7db6\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:7:5-47
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b81e164b0f857ee74346e489b3c36ad5\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml
+		INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:15:5-34:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b81e164b0f857ee74346e489b3c36ad5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b81e164b0f857ee74346e489b3c36ad5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a22f3f45a79a25d433744e86f3885136\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a22f3f45a79a25d433744e86f3885136\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\293fc2a949547d17c21cc223419f5b42\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\293fc2a949547d17c21cc223419f5b42\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8cbfac5abaeb2a5daff28fecf8ea45cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8cbfac5abaeb2a5daff28fecf8ea45cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\caa63c2e4c6605cc607f6d5636cf783f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\caa63c2e4c6605cc607f6d5636cf783f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\90eb323c3a44377a32bcfbf0e229f569\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\90eb323c3a44377a32bcfbf0e229f569\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9a0fccb0219692a3a6e8d180aaef7db6\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9a0fccb0219692a3a6e8d180aaef7db6\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:17:9-38
+	android:allowBackup
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.main.MainActivity
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:23:8-44
+	android:label
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:21:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.bluetooth.DeviceListActivity
+ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:30:10-33:72
+	android:label
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:31:19-41
+	android:configChanges
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:33:19-69
+	android:theme
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:32:19-49
+	android:name
+		ADDED from E:\redrock\BlueTooth\app\src\main\AndroidManifest.xml:30:20-75
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b81e164b0f857ee74346e489b3c36ad5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a22f3f45a79a25d433744e86f3885136\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a22f3f45a79a25d433744e86f3885136\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\293fc2a949547d17c21cc223419f5b42\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\293fc2a949547d17c21cc223419f5b42\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8cbfac5abaeb2a5daff28fecf8ea45cb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8cbfac5abaeb2a5daff28fecf8ea45cb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\caa63c2e4c6605cc607f6d5636cf783f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\caa63c2e4c6605cc607f6d5636cf783f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\90eb323c3a44377a32bcfbf0e229f569\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\90eb323c3a44377a32bcfbf0e229f569\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b81e164b0f857ee74346e489b3c36ad5\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b81e164b0f857ee74346e489b3c36ad5\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9a0fccb0219692a3a6e8d180aaef7db6\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9a0fccb0219692a3a6e8d180aaef7db6\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\管理员\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9a0fccb0219692a3a6e8d180aaef7db6\AndroidManifest.xml:26:13-58
